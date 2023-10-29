@@ -1,0 +1,29 @@
+/* style={{backgroundColor:'black',color:'white',maxWidth:'200px',marginLeft:'43%'}} */
+
+
+
+.task{
+    display: flex;
+    border: 5px solid rgb(250, 247, 247);  
+    max-width:  30%;
+    margin: 0 auto 0 auto;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+}
+.checkBox{
+    color: white;
+    margin-top: 23px;
+    margin-left: 5px;
+}
+.dlt{
+    margin-top: 23px;
+}
+.titleLineThrough{
+    margin-left: 10px;
+    text-decoration: line-through;
+}
+
+.heading{
+    text-align: center;
+}
